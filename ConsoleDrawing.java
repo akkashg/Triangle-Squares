@@ -3,7 +3,7 @@ import java.util.*;
 public class ConsoleDrawing {
 
 	public static void main(String []args) {
-		// TODO Auto-generated method stub
+		// A main function to run the program.
 		int c=Integer.parseInt(args[0]);
 		int r=Integer.parseInt(args[1]);
 		char b=args[2].charAt(0);
