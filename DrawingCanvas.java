@@ -1,3 +1,5 @@
+
+//This class provides the UI
 import java.util.*;
 public class DrawingCanvas {
 
