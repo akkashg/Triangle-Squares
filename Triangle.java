@@ -1,3 +1,4 @@
+//TRIANGLES
 public class Triangle {
 
 	public void Triangle(char b,char t,int r,int c,int a,int rot,String alg) {
