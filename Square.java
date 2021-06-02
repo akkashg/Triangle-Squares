@@ -2,7 +2,7 @@
 public class Square {
 
 	public void Squares(char b, char s,int r,int c,int a,String alg) {
-		// TODO Auto-generated method stub
+		// Print the Square at console acc. to parameters.
 		int x=a;
 		int y=a;
 		int al=0;
