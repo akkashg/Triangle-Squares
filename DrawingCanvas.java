@@ -55,10 +55,7 @@ public class DrawingCanvas {
 			System.out.println("Unsupported option. Please try again.");
 			user();
 		}
-		//Triangle ob=new Triangle();
-		//Squares ob1=new Squares();
-		/*ob.Triangle('-','B',r-1,c-1,4,0,"left");
-		ob1.Squares('-', 'B',r-1, c-1, 3, "middle");*/
+		
 
 	}
 	
